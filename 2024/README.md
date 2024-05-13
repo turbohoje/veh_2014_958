@@ -20,3 +20,21 @@ Original on left, Oreilly on right
 
 
 ![receipt](receipts/coil20240327.jpg)
+
+## May 13
+
+### Fuel Filter and Pump
+Reduced engine power light has periodically come on.  Replacing the low pressure pump and fuel filter as a start before moving onto the high pressure pump as a prevenative measure.
+
+![img](img/2024-05-13%20at%2007.02.33.png)
+
+![img](img/2024-05-13%20at%2007.02.45.png
+
+![img](img/2024-05-13%20at%2007.03.08.png)
+
+part number on outside of part removed: 7P0919679 [receipt](receipts/may_fuel_filter.pdf)  Note: amazon's fitment check and guide was incorrect on this part.  
+
+part 7P0919087 [receipt](receipts/may_fuel_pump.pdf)
+
+notes:
+to replace the fuel filter, only the drivers side needs to come out.  the replace the pump, both need to be removed as the fuel cover line routes to the drivers side from the passenger.
