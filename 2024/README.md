@@ -47,3 +47,14 @@ to replace the fuel filter, only the drivers side needs to come out.  the replac
 Milage: 125,844
 
 [receipt](receipts/jul_21_oil_filter.pdf) 
+
+
+## October 6
+
+### Drivers side rear door lock
+
+[receipt](receipts/door-lock.pdf)
+
+One of the reverse threaded window clamp bolts was stripped.  Some missing tabs on the arm rest.
+Attempted to weld a nut to the window actuator, nut spins but lumps on the top of the stud was enough to loosen the clamp and replace the door actuator.
+[instructions](https://youtu.be/CuMVAAB011Y?si=4Cf1pkIKc6YJtkb6)
