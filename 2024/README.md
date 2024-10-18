@@ -58,3 +58,13 @@ Milage: 125,844
 One of the reverse threaded window clamp bolts was stripped.  Some missing tabs on the arm rest.
 Attempted to weld a nut to the window actuator, nut spins but lumps on the top of the stud was enough to loosen the clamp and replace the door actuator.
 [instructions](https://youtu.be/CuMVAAB011Y?si=4Cf1pkIKc6YJtkb6)
+
+## Oct 18
+
+### Coil packs
+
+installed the remainder of the coil packs.  One went out before, replaced the rest as a precaution and to see if it fixes the intermittant "reduced engine power" knock warning.
+
+[receipt](img/coils.png)
+
+Milage: 127,900
